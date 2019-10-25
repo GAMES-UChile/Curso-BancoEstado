@@ -280,3 +280,5 @@ TSWLatexianTemp*
 *.lpz
 
 *.xlsx
+*.pth
+modulo5/data/*
